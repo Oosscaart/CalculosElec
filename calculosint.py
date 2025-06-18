@@ -3,6 +3,7 @@ from tkinter import ttk, messagebox
 import math
 from datetime import datetime
 
+#Cambio
 class Calculos:
     def __init__(self, root):
         self.root = root
